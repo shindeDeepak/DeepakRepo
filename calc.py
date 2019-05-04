@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 def add(x,y):
 pass
+=======
+dletepasddfdfpass
+>>>>>>> 4742bca... subtract
 def subtract(x,y): 
 
     pass 
